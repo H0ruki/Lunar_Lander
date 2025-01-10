@@ -7,7 +7,7 @@ https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 
 https://www.coursera.org/specializations/machine-learning-introduction
 
-And to have an idea of what a README file about the topic look like I used the one of spvino as a reference (even if very mine is far away from the same quality)
+And to have an idea of what a README file about the topic look like I used the one of spvino as a reference
 
 https://github.com/svpino/lunar-lander/blob/master/README.md
 
@@ -55,5 +55,5 @@ We could also play with the decay rate of ε.
 
 
 
-(The code and the README are very messy i will try to improve it later)
+(The code and the README are very messy i will improve it later)
 
